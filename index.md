@@ -1,2 +1,2 @@
-# TMUCP.github.io
+# Computational Physics
 Hello!
