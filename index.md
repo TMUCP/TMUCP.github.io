@@ -1,6 +1,4 @@
-# Computational Physics
-
-
+# Computational Physics | Tarbiat Modares University
 
 ## Install requirements
 
