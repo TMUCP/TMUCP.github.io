@@ -17,7 +17,7 @@ link: [windows install manual](https://docs.anaconda.com/anaconda/install/window
 
 > Notice: There are two versions of Python so make sure to install python version 3 and **not** 2.
 
-### Instaliation steps
+### installation steps
 
 
 ![anaconda image3](/images/win-install-destination.png)
