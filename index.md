@@ -2,10 +2,10 @@
 
 ## Install requirements
 
-Install Anaconda: you can download anaconda from this link: [download link](https://www.anaconda.com/products/individual)
+Install Anaconda: you can download Anaconda from this link: [download link](https://www.anaconda.com/products/individual)
 
 you will face something like this image, download it and install it.
-> Make sure downloading the anaconda that fit your system, there are two version of it 64bit and 32bit
+> Make sure to download the Anaconda that fits your system. there are two versions of it 64bit and 32bit
 
 ![anaconda image](/images/anaconda_1.png)
 
