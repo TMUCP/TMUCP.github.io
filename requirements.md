@@ -1,7 +1,7 @@
 
 Install Anaconda: you can download Anaconda from this link: [download link](https://www.anaconda.com/products/individual)
 
-you will face something like this image, download and install it.
+You will face something like this image, download and install it.
 
 ![anaconda image](/images/anaconda_1.png)
 
