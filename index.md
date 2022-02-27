@@ -4,7 +4,7 @@
 
 
 [Requirements](requirements.md)
-
+<!-- 
 Install Anaconda: you can download Anaconda from this link: [download link](https://www.anaconda.com/products/individual)
 
 you will face something like this image, download and install it.
@@ -26,7 +26,7 @@ link: [windows install manual](https://docs.anaconda.com/anaconda/install/window
 
 ![anaconda image2](/images/win-install-options.png)
 
-![anaconda image1](/images/win-install-complete.png)
+![anaconda image1](/images/win-install-complete.png) -->
 
 
 ## Course **8.12.1400**
