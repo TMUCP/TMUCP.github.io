@@ -19,9 +19,17 @@ link: [windows install manual](https://docs.anaconda.com/anaconda/install/window
 
 ### installation steps
 
-
 ![anaconda image3](/images/win-install-destination.png)
 
 ![anaconda image2](/images/win-install-options.png)
 
 ![anaconda image1](/images/win-install-complete.png)
+
+
+## Course **8.12.1400**
+
+you can download the course notebook from here:
+[Notebook](codes/Lecture-1-Introduction-to-Python-Programming.ipynb)
+
+> Note: we took this material from jrjohansson lecture on scientific-python-lectures, feel free to check the full version of the course from its github link: [jrjohansson notebooks link](https://github.com/jrjohansson/scientific-python-lectures)
+ 
