@@ -3,7 +3,7 @@
 ## Install requirements
 
 ### Installing Anaconda
-Window manual:
+Windows manual:
 [Requirements](requirements.md)
 
 
