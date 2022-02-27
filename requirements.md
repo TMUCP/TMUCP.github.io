@@ -22,3 +22,4 @@ link: [windows install manual](https://docs.anaconda.com/anaconda/install/window
 
 ![anaconda image1](/images/win-install-complete.png)
 
+
