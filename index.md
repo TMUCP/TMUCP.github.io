@@ -1,5 +1,11 @@
+![Tarbiat Modares University](images/uni.png)
 # Computational Physics | Tarbiat Modares University
 
+## Course info
+
+**Lecturer:** Dr. Malihe Ghodrat
+
+**Date:** 2022
 ## Install requirements
 
 ### Installing Anaconda
