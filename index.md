@@ -26,5 +26,5 @@ you can download the course notebook from here:
 
 **Due to:** 15 Esfand 1400
 
-Notebook: [homework0](Homeworks/Homework_0_surname.ipynb)
+Notebook: [homework0](Homeworks/Homework_0.ipynb)
 
