@@ -29,4 +29,4 @@ you can download the course notebook from here:
 Notebook: [homework0](Homeworks/Homework_0.ipynb)
 
 Video description:
-![homework_0_video](https://aparat.com/v/LZnJO)
+[homework_0_video](https://aparat.com/v/LZnJO)
