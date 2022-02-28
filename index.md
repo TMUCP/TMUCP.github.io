@@ -28,6 +28,4 @@ you can download the course notebook from here:
 
 Notebook: [homework0](Homeworks/Homework_0.ipynb)
 
-Video description:
-
-<div id="58175960097"><script type="text/JavaScript" src="https://www.aparat.com/embed/LZnJO?data[rnddiv]=58175960097&data[responsive]=yes"></script></div>
+Video description: [homework_0_video](https://aparat.com/v/LZnJO)
