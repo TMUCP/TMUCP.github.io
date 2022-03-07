@@ -33,16 +33,10 @@ Video description: [homework_0_video](https://aparat.com/v/LZnJO)
 
 ### Homework 1
 
-**Start:** 9 Esfand 1400
-
-**Due to:** 15 Esfand 1400
-
-Notebook: [homework1](Homeworks/Homework_1.ipynb)
-
-Video description: [homework_1_video](https://aparat.com/v/kywoF)
-
 **Start:** 17 Esfand 1400
 
 **Due to:** 23 Esfand 1400
 
+Notebook: [homework1](Homeworks/Homework_1.ipynb)
 
+Video description: [homework_1_video](https://aparat.com/v/kywoF)
