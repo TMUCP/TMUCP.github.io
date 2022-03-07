@@ -30,6 +30,7 @@ Notebook: [homework0](Homeworks/Homework_0.ipynb)
 
 Video description: [homework_0_video](https://aparat.com/v/LZnJO)
 
+## Course 15.12.1400
 
 ### Homework 1
 
