@@ -28,18 +28,18 @@ you can download the course notebook from here:
 
 Notebook: [homework0](Homeworks/Homework_0.ipynb)
 
-Video description:
-![homework_0_video](https://aparat.com/v/LZnJO)
+Video description: [homework_0_video](https://aparat.com/v/LZnJO)
+
 
 ### Homework 1
+
 **Start:** 9 Esfand 1400
 
 **Due to:** 15 Esfand 1400
 
 Notebook: [homework1](Homeworks/Homework_1.ipynb)
 
-Video description:
-![homework_0_video](https://aparat.com/v/kywoF)
+Video description: [homework_1_video](https://aparat.com/v/kywoF)
 
 **Start:** 17 Esfand 1400
 
