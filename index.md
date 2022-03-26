@@ -46,7 +46,8 @@ Video description: [homework_1_video](https://aparat.com/v/kywoF)
 **start:** 24 Esfand 1400
 **Due to** 15 Farvardin 1401
 
-Notebook: [homework1](Homeworks/Homework_2.ipynb)
-Video description: [homework_1_video](https://aparat.com/v/GgPlj)
+Notebook: [homework2](Homeworks/Homework_2.ipynb)
+
+Video description: [homework_2_video](https://aparat.com/v/GgPlj)
 
 
