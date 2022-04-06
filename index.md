@@ -43,12 +43,20 @@ Notebook: [homework1](Homeworks/Homework_1.ipynb)
 Video description: [homework_1_video](https://aparat.com/v/kywoF)
 
 ## Course 22.12.1400
-**start:** 24 Esfand 1400
+**start:** 22 Esfand 1400
 
 **Due to:** 15 Farvardin 1401
 
 Notebook: [homework2](Homeworks/Homework_2.ipynb)
 
 Video description: [homework_2_video](https://aparat.com/v/GgPlj)
+
+
+## Course 14.12.1400
+**start:** 14 Farvardin 1401
+
+**Due to:** 21 Farvardin 1401
+
+Notebook: [homework2](Homeworks/Homework_3.ipynb)
 
 
