@@ -57,6 +57,6 @@ Video description: [homework_2_video](https://aparat.com/v/GgPlj)
 
 **Due to:** 21 Farvardin 1401
 
-Notebook: [homework2](Homeworks/Homework_3.ipynb)
+Notebook: [homework3](Homeworks/Homework_3.ipynb)
 
 
