@@ -60,3 +60,6 @@ Video description: [homework_2_video](https://aparat.com/v/GgPlj)
 Notebook: [homework3](Homeworks/Homework_3.ipynb)
 
 
+## Course 21.01.1401
+
+**TA Class**: [SciPy Curve fitting Notebook](codes/curvefit.ipynb)
