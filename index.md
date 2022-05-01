@@ -60,6 +60,16 @@ Video description: [homework_2_video](https://aparat.com/v/GgPlj)
 Notebook: [homework3](Homeworks/Homework_3.ipynb)
 
 
-## Course 21.01.1401
+## TA Class 21.01.1401
 
 **TA Class**: [SciPy Curve fitting Notebook](codes/curvefit.ipynb)
+
+## TA Class 10.02.1401
+
+**All SymPy notebooks in zip**: [SymPy Notebook](codes/sympy/sympy_notebooks.zip)
+
+**VPython Spring-mass example Notebooks**: [SymPy Notebook](codes/spring_mass_vpython.ipynb)
+
+
+
+
